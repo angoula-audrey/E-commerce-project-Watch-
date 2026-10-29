@@ -1,0 +1,15 @@
+
+.contact {
+    border: solid 1px   rgb(229, 236, 243);
+    border-radius: 10px;
+    background-color: rgb(229, 236, 243);
+}
+
+.drop {
+    font-size: larger;
+    color: #4FA76E;
+}
+
+.form-label {
+    color: #4FA76E;
+}

@@ -1,0 +1,62 @@
+.main-division {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+
+.ratedimage {
+    /* height: 60px; */
+    /* width: 60px; */
+    margin: 10px;
+}
+
+.ratedinfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-check-input:checked {
+    /* text-align: left; */
+    background-color:  #4FA76E;
+}
+
+.form-check {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.imp-text {
+    color: #4FA76E;
+    font-size: 30px;
+}
+
+.side-cols {
+    border: solid 1px rgb(229, 236, 243);
+    background-color: rgb(229, 236, 243);
+}
+
+.golden {
+    color: rgb(241, 184, 40);
+}
+
+.silver {
+    color: rgb(121, 114, 114);
+}
+
+.pink {
+    color: rgb(235, 156, 169);
+}
+
+.blue {
+    color: rgb(4, 4, 63);
+}
+
+.black {
+    color: black;
+}
+
+.bi-circle-fill:hover{
+    padding: 5px;
+
+}
